@@ -1,2 +1,4 @@
 /basicboot/
 *.zip
+/target/
+/bin/
